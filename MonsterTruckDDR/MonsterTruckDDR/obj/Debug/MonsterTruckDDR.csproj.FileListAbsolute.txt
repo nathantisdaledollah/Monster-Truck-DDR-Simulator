@@ -1,0 +1,14 @@
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\bin\Debug\MonsterTruckDDR.exe.config
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\bin\Debug\MonsterTruckDDR.exe
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\bin\Debug\MonsterTruckDDR.pdb
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\MonsterTruckDDR.csproj.ResolveComReference.cache
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\MonsterTruckDDR.Form1.resources
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\MonsterTruckDDR.Properties.Resources.resources
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\MonsterTruckDDR.csproj.GenerateResource.Cache
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\MonsterTruckDDR.exe
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\MonsterTruckDDR.pdb
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Debug\MonsterTruckDDR.csprojResolveAssemblyReference.cache

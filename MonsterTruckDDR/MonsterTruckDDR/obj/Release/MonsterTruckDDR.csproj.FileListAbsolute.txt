@@ -1,0 +1,4 @@
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\bin\Release\MonsterTruckDDR.exe.config
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Release\Interop.WMPLib.dll
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Nathan\documents\visual studio 2013\Projects\MonsterTruckDDR\MonsterTruckDDR\obj\Release\MonsterTruckDDR.csproj.ResolveComReference.cache
